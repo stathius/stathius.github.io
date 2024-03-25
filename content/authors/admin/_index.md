@@ -52,7 +52,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  # - name: Technical
+  - name: Technical
     items:
       - name: Love for science
         description: ''
@@ -64,11 +64,7 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      # - name: Jax
-      #   description: ''
-      #   percent: 35
-      #   icon: database
-      #   icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
