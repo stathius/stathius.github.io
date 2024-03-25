@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-04-25
 type: landing
 
 sections:
@@ -72,14 +72,14 @@ sections:
           description: Research on machine learning and physics.
     design:
       columns: '2'
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -101,7 +101,14 @@ sections:
   #         organization: Coursera
   #         organization_url: https://www.coursera.org
   #         title: Neural Networks and Deep Learning
-  #         url: ''
+  #         url: ''  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   #       - certificate_url: https://www.edx.org
   #         date_end: ''
   #         date_start: '2021-01-01'
