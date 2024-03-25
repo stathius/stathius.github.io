@@ -39,36 +39,36 @@ education:
   courses:
     - course: PhD in Machine Learning
       institution: Imperial College London
-      year: 2024 Q1
+      # year: 2024 Q1
     - course: MSc in Artificial Intelligence
       institution: University of Edinburgh
-      year: 2019
+      # year: 2019
     - course: BSc in Computer Science
       institution: University of Ioannina
-      year: 2016
+      # year: 2016
     - course: BSc in Physics
       institution: University of Ioannina
-      year: 2004
+      # year: 2004
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  # - name: Technical
     items:
-      - name: Python
+      - name: Love for science
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Pytorch
+      - name: Work Ethic
         description: ''
-        percent: 80
+        percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: Jax
-        description: ''
-        percent: 35
-        icon: database
-        icon_pack: fas
+      # - name: Jax
+      #   description: ''
+      #   percent: 35
+      #   icon: database
+      #   icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
